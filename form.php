@@ -14,8 +14,8 @@
             <input type="text" id="name" name="user_name">
         </div>
         <div>
-            <label  for="email">Email :</label>
-            <input  type="email"  id="email"  name="user_email">
+            <label  for="email">Mail :</label>
+            <input  type="email" id="email"  name="user_email">
         </div>
         <div>
             <label for="phone">Téléphone :</label>
